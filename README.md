@@ -17,6 +17,10 @@ The car blogs website offers a comprehensive platform for car enthusiasts to rea
 * As a user, I want secure transaction options to ensure my personal information is protected during the subscription process.
 
 
+## ERD
+![ERD](/img/erd.png)
+
+
 ## Pseudocode
 
 1. Variables
