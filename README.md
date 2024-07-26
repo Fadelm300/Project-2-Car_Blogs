@@ -1,5 +1,5 @@
 # Car Blogs
-![Car_Blogs](/img/p0.png)
+![Car_Blogs](/img/cars-blog.png)
 
 ## Overview
 
