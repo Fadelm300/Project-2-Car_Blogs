@@ -8,7 +8,8 @@
     "method-override": "^3.0.0",
     "mongoose": "^8.5.1",
     "morgan": "^1.10.0",
-    "nodemon": "^3.1.4"
+    "nodemon": "^3.1.4",
+    "path": "^0.12.7"
   },
   "name": "project-2-car_blogs",
   "version": "1.0.0",

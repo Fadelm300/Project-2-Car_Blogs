@@ -12,23 +12,7 @@
     
    
 
-    <h1>All cars</h1>
-    <div>
-      <% if (pantry.length > 0) { %>
-        <ul>
-          <% pantry.forEach(car => { %>
-            <li>
-              <a href="/users/<%= user._id %>/cars/<%= car._id %>">
-                <%= car.name %>
-              </a>
-            </li>
-          <% }); %>
-        </ul>
-      <% } else { %>
-        <p>There are no items in this pantry.</p>
-        
-      <% } %>
-    </div>
+ 
     <a href="/users/<%= user._id %>/cars/new">Add a New Item</a>
 
   </body>
